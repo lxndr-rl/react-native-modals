@@ -37,7 +37,7 @@ export type ModalProps = {
   onHardwareBackPress?: () => boolean;
   onShow?: () => void;
   onDismiss?: () => void;
-  footer?: Node;
+  footer?: any;
   onMove?: (event: DragEvent) => void,
   onSwiping?: (event :DragEvent) => void,
   onSwipeRelease?: (event: DragEvent) => void,
