@@ -25,9 +25,9 @@ A lot of backward incompatible changes in `v0.22.0`. Please, Read the Docs befor
 ## Installation
 
 ```
-npm install --save react-native-modals
+npm install --save https://github.com/lxndr-rl/react-native-modals
 # OR
-yarn add react-native-modals
+yarn add https://github.com/lxndr-rl/react-native-modals
 ```
 
 ## Exposed Modules
